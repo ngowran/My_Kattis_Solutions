@@ -11,3 +11,4 @@
 | [Quadrant](https://open.kattis.com/problems/quadrant)  | 1.3  | python3 | [Click here](https://github.com/ngowran/My_Kattis_Solutions/blob/main/difficulty_1-2/quadrant.py) |
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | 1.6 | python3 | [Click here](https://github.com/ngowran/My_Kattis_Solutions/blob/main/difficulty_1-2/quickbrownfox.py) |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | 1.2 - 1.5 | python3 | [Click here](https://github.com/ngowran/My_Kattis_Solutions/blob/main/difficulty_1-2/reverse.py )|
+| [Spelling Bee](https://open.kattis.com/problems/spellingbee) | 1.9 | python3 | [Click here](https://github.com/ngowran/My_Kattis_Solutions/blob/main/difficulty_1-2/spelling-bee.py)|
